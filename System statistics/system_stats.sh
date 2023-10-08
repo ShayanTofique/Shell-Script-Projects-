@@ -1,5 +1,4 @@
 #!/bin/bash
-# Author: Shayan Shaikh
 
 # Title
 echo "*************************** SHELL SCRIPTING ***************************"

@@ -1,7 +1,7 @@
 
 while true
 do
-        clear	
+    clear	
 	echo $(date +%T)
 	sleep 1s
 done 
