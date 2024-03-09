@@ -12,17 +12,17 @@ do
   then 
           read -p "Enter Number1 :" Number1
           read -p "Enter Number2 :" Number2
-          echo "Answer=$((Number1 / Number2))"
+          echo "Answer=$((Number1 + Number2))"
   elif [ $choice -eq 2 ]
   then 
           read -p "Enter Number1 :" Number1
           read -p "Enter Number2 :" Number2
-          echo "Answer=$((Number1 / Number2))"
+          echo "Answer=$((Number1 - Number2))"
   elif [ $choice -eq 3 ]
   then 
           read -p "Enter Number1 :" Number1
           read -p "Enter Number2 :" Number2
-          echo "Answer=$((Number1 / Number2))"
+          echo "Answer=$((Number1 * Number2))"
   elif [ $choice -eq 4 ]
   then 
           read -p "Enter Number1 :" Number1
